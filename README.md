@@ -1,2 +1,5 @@
 codedata.github.io
 ==================
+
+CodeData Github 頁面將於 2014 年進行規畫，歡迎光臨您先造訪 [CodeData](http://www.codedata.com.tw) 主頁！
+
